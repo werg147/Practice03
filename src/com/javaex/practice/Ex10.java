@@ -36,7 +36,6 @@ public class Ex10 {
 		
 		sc.close();
 		
-
 	}
 
 }

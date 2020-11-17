@@ -15,5 +15,4 @@ public class Ex04 {
 		}
 
 	}
-
 }
