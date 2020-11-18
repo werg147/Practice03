@@ -8,6 +8,8 @@ public class Ex10 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		for문으로 다시풀어야함
+		
 		System.out.println("숫자를 입력하세요");
 		System.out.print("숫자: ");
 		int n1 = sc.nextInt();

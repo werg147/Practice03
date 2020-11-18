@@ -8,7 +8,7 @@ public class Ex09 {
 		int x;
 		
 		for(y=1; y<=10; y++) {
-			for(x=y; x<11; x++) {
+			for(x=y; x<20; x++) {
 				System.out.print(x);
 				System.out.print("\t");
 			}
@@ -18,3 +18,4 @@ public class Ex09 {
 	}
 }
 
+뒷부분도 반복됨
