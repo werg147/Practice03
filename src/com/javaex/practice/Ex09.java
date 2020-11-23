@@ -8,14 +8,11 @@ public class Ex09 {
 		int x;
 		
 		for(y=1; y<=10; y++) {
-			for(x=y; x<20; x++) {
-				System.out.print(x);
-				System.out.print("\t");
+			for(x=y; x<10+y; x++) {
+				System.out.print(x + "\t");
 			}
 			System.out.println("");
 		}
 
 	}
 }
-
-뒷부분도 반복됨
