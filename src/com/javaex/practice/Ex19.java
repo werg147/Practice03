@@ -38,7 +38,7 @@ public class Ex19 {
 
 		}
 		
-		3잔고액
+		
 	
 		sc.close();
 	}
